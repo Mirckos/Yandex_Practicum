@@ -16,6 +16,6 @@
 ```mermaid
 graph LR;
   Engineer -- "learning new" --> DS;
-  DS    -- "practice"     --> favorite and interesting work;
+  DS -- "practice" --> favorite-and-interesting-work;
 ``` 
 
