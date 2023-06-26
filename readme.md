@@ -15,7 +15,7 @@
 
 ```mermaid
 graph LR;
-  untracked -- "git add" --> staged;
-  staged    -- "state"     --> tracked/comitted;
+  Engineer -- "learning new" --> DS;
+  DS    -- "practice"     --> favorite and interesting work;
 ``` 
 
