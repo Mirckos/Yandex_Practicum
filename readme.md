@@ -4,9 +4,7 @@
 
 - Яндекс Практикум
 - DLS(MIPT)
-- Python-разработчик (Mail.ru)
-
-Направление - Data Science
+- Python-разработчик (Mail.ru) 
 
 Стек: `PyQt, Pandas, Numpy, Scikit-learn, PyTorch, TensorFlow`
 
@@ -15,7 +13,6 @@
 
 ```mermaid
 graph LR;
-  Engineer -- "learning new" --> DS;
-  DS -- "practice" --> favorite-and-interesting-work;
+  Engineer -- "learning new" --> favorite-and-interesting-work;
 ``` 
 
