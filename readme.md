@@ -9,10 +9,3 @@
 Стек: `PyQt, Pandas, Numpy, Scikit-learn, PyTorch, TensorFlow`
 
 Языки: `Python, C/C++, Assembler` 
-
-
-```mermaid
-graph LR;
-  Engineer -- "learning new" --> favorite-and-interesting-work;
-``` 
-
